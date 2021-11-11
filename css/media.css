@@ -1,9 +1,9 @@
-
 @media screen and (min-width: 300px) and (max-width: 800px) {
     .container {
         flex-direction: column;
         overflow: visible;
-        height: auto; 
+        height: auto;
+        background-image: linear-gradient(90deg, #0ea6ec 10%, #0800ff 100%); 
      }
  
      .popit-1, .popit-2, .popit-3 {
