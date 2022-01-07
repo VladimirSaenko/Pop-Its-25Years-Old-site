@@ -28,7 +28,7 @@
     flex-direction: row;
     width: 305px;
     height: 550px;
-    background-image: linear-gradient(135deg, #188545 50%, #095730 100%);
+    background-image: linear-gradient(135deg, #1b9217 50%, #06301b 100%);
     border-radius: 50px;
 }
 
@@ -42,7 +42,7 @@
     width: 90px;
     height: 90px;
     margin: 25px 0px;
-    background: rgb(0, 255, 0);
+    background: rgb(57, 255, 7);
     border-radius: 100%;
     cursor: pointer;
     border: green 7px solid;
@@ -63,7 +63,7 @@
     width: 90px;
     height: 90px;
     margin: 25px 0px;
-    background: rgba(241, 240, 240, 0.87);
+    background: #fff;
     border-radius: 100%;
     cursor: pointer;
     border: rgb(13, 13, 255) 7px solid;
@@ -77,18 +77,17 @@
     width: 305px;
     height: 550px;
     border-radius: 50px;
-    background: rgba(127, 134, 160, 0.568);
-    background-image: linear-gradient(135deg, rgba(73, 79, 85, 0.774) 50%, #111214 100%);
+    background-image: linear-gradient(135deg, rgba(73, 79, 85, 0.774) 50%, #4e5157 100%);
 }
 
 .popit3__circle {
     width: 90px;
     height: 90px;
     margin: 25px 0px;
-    background: rgba(251, 255, 0, 0.87);
+    background: rgb(251, 255, 0);
     border-radius: 100%;
     cursor: pointer;
-    border: gray 7px solid;
+    border: rgb(124, 121, 121) 7px solid;
 }
 
 .popit1__circle.active {
